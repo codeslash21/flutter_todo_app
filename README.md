@@ -1,11 +1,10 @@
-# flutter_todo_app
-
-## Getting Started
-
+# ToDoY
 Its a noraml daily usable ToDo app. Beautiful UI and easy to use. This app has following functionality - 
 * Add Task
 * Check task that is completed.
 * Delete task that is not necessary.
+
+## Getting Started
 
 
 **To start with this project follow this instructions -**
