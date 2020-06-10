@@ -2,14 +2,13 @@
 
 ## Getting Started
 
-Its a noraml daily usable ToDo app. This app has following functionality - 
+Its a noraml daily usable ToDo app. Beautiful UI and easy to use. This app has following functionality - 
 * Add Task
 * Check task that is completed.
 * Delete task that is not necessary.
 
-Beautiful UI and easy to use.
 
-To start with this project follow this instructions -
+**To start with this project follow this instructions -**
 
 - **Option 1**
 
